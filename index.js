@@ -13,5 +13,5 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   if (
   else if
-  else
+  else (string = "console")
 }
