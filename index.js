@@ -11,7 +11,7 @@ function logWhisper(string) {
   console.log("hello")
 }
 function sayHiToGrandma(string) {
-  if (
+  if (strin === 
   else if
   else (string = "console")
 }
